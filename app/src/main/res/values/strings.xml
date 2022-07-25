@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">githubuser</string>
+    <string name="title">Title</string>
+    <string name="sub_title">Sub Title</string>
+    <string name="todo">TODO</string>
+    <string name="hello">hello</string>
+</resources>
